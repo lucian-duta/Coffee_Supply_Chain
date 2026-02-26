@@ -1,4 +1,4 @@
-# Coffee_Supply_Chain
+# Coffee Supply Chain
 
 ## Contents
 1. [Overview of the Project](#overview-of-the-project)
